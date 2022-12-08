@@ -1,8 +1,10 @@
 # TSF - Prediction using Supervised ML
 
-## Hello
+## The following steps have been taken to complete this project.
 
-### Hello
-
-
-Hello
+### 1. Importing various librarires.
+   #### A. Pandas to read the csv file
+   #### B. Numpy, seaborne, matplotlib for EDA
+   #### C. Scikit-learn for Model builiding and prediction.
+   
+ 
