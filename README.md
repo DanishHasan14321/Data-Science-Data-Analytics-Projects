@@ -1,6 +1,6 @@
 # TSF - Prediction using Supervised ML. 
   1. Predict percentage of students based on number of study hours.
-  2. 2. Predicted score if a student studies for 9.25 hours/day?
+  2. Predicted score if a student studies for 9.25 hours/day?
 
 ## The following steps have been taken to complete this project.
 
